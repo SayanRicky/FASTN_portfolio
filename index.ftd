@@ -137,7 +137,7 @@ image: $assets.files.images.mail.png
 
 -- ftd.image:
 src: $assets.files.images.ui-ux-design-services-banner.png
-width.fixed.px: 400
+width.fixed.px: 800
 
 -- end: ftd.row
 
