@@ -124,7 +124,7 @@ link: https://www.instagram.com/sayan_ricky/
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:sayanricky24@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
@@ -136,7 +136,7 @@ image: $assets.files.images.mail.png
 -- end: ftd.column
 
 -- ftd.image:
-src: $assets.files.images.developer.png
+src: $assets.files.images.ui-ux-design-services-banner.png
 width.fixed.px: 400
 
 -- end: ftd.row
