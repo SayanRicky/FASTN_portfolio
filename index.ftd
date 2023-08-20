@@ -95,7 +95,7 @@ link: mailto:sayanricky24@gmail.com
 
 -- button.primary:
 title: Schedule a Meeting
-link: meet.google.com
+link: https://meet.google.com/
 isNewTab: true
 
 -- end: ftd.row
@@ -196,7 +196,7 @@ link: mailto:sayanricky24@gmail.com
 
 -- button.primary:
 title: Schedule a Meeting
-link: meet.google.com
+link: https://meet.google.com/
 isNewTab: true
 
 -- end: ftd.row
